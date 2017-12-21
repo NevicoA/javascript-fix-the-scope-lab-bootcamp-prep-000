@@ -2,6 +2,7 @@ var animal ;
 function myAnimal() {
    animal='dog';
 }
+myAnimal()
 
 function add2(n) {
   return n + two
