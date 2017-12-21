@@ -2,10 +2,11 @@ function myAnimal() {
   var animal='dog';
 function yourAnimal() {
   var animal2 ='cat';
+  return animal2
 }
   return animal
 }
-var myScope=myAnimal();
+var myScope = myAnimal();
 
 
 function add2(n) {
