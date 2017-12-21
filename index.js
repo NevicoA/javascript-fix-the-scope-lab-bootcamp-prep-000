@@ -1,6 +1,6 @@
 var animal ;
 function myAnimal() {
-   animal='dog';  
+   animal='dog';
 }
 
 function add2(n) {
